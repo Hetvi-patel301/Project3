@@ -1,6 +1,6 @@
 # Student Data Organizer
 
-#### Project Description
+### Project Description
 
 The **Student Data Organizer** is a Python-based console application used to manage student information.
 
@@ -14,9 +14,8 @@ This project allows the user to:
 
 The project demonstrates the use of Python **List, Dictionary, Tuple, Set, Loops, Conditional Statements, and Match-Case**.
 
----
 
-#### Technologies Used
+### Technologies Used
 
 - List
 - Dictionary
@@ -27,9 +26,7 @@ The project demonstrates the use of Python **List, Dictionary, Tuple, Set, Loops
 - `if-elif-else`
 - `match-case`
 
----
-
-####  Features
+###  Features
 
 #### 1. Add Student
 
@@ -43,7 +40,7 @@ The user can enter:
 - Subjects
 
 Student information is stored in a dictionary and added to the `students` list.
-####  Project Structure
+###  Project Structure
 
 project_3/
 │
